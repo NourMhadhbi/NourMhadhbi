@@ -44,7 +44,7 @@ Je conçois et développe des solutions en **ingénierie des données** et en **
 **Stagiaire d'été — Plateforme DomiService** · *Azin, Sfax* · Juillet 2025
 - Plateforme web de mise en relation entre clients et prestataires de services à domicile
 - Modélisation de la base de données et API avec **Node.js / Express.js**, interface avec **React.js**
-
+[GitHub](https://github.com/NourMhadhbi/projetDomiService.git)
 **Développeuse Full-Stack Web** · *Advantry X, Sfax* · Juin – Oct. 2024
 - Maintenance et évolution d'une plateforme web de suivi de production, développement de nouvelles fonctionnalités
 - Support technique et assistance aux utilisateurs
@@ -53,7 +53,7 @@ Je conçois et développe des solutions en **ingénierie des données** et en **
 **Stage de fin d'études — Plateforme GMAO** · *Advantry X, Sfax* · Jan. – Juin 2024
 - Conception et développement d'une plateforme web de Gestion de Maintenance Assistée par Ordinateur (GMAO)
 - **PHP natif, HTML, JavaScript, CSS, Ajax, jQuery, JSON**
-- 🔗 [github.com/NourMhadhbi/PFE_GMAO](https://github.com/NourMhadhbi/PFE_GMAO)
+[GitHub](https://github.com/NourMhadhbi/ProjetGMAO.git)
 
 ### 🎓 Parcours académique
 
@@ -71,11 +71,11 @@ Je conçois et développe des solutions en **ingénierie des données** et en **
 | 02 | **Retail Intelligence Platform** | Plateforme d'exploitation des données clients/transactionnelles : pipelines Batch/Streaming, dashboards Grafana, chaîne MLOps complète, chatbot RAG | Python · Apache Spark · Kafka · PostgreSQL · MLflow · DagsHub · FastAPI · React | [GitHub](https://github.com/ZeinebGhrab/HM-Retail-Intelligence-platform.git) |
 | 03 | **NeuroScan ASD** — Détection de l'autisme par GNN | Détection du trouble du spectre de l'autisme à partir de données de neuro-imagerie (ABIDE I) via un Graph Attention Network (GAT-LI) ; plateforme Flask pour l'analyse automatisée de fichiers IRMf | Python · PyTorch · GNN · Scikit-learn · Flask | [GitHub](https://github.com/NourMhadhbi/Neuroscan-asd.git) |
 | 04 | **Shop Lifting** — Anavid Smart Retail | Détection de vol en environnement retail : API REST authentifiées (Django REST Framework), app mobile Ionic React, cache Redis, déploiement Docker Compose | Python · Django REST · Redis · Ionic React · MySQL · Docker | [GitHub](https://github.com/nour-mhadhbi/anavid-shop-lifting) |
-| 05 | **Gestionnaire de tâches intelligent** | Répartition intelligente des tâches (compétences, charge, disponibilité), timeline Kanban interactive, détection des projets à risque | Spring Boot · Spring Data JPA · MySQL · Thymeleaf | [GitHub](https://github.com/nour-mhadhbi/smart-task-manager) |
+| 05 | **Gestionnaire de tâches intelligent** | Répartition intelligente des tâches (compétences, charge, disponibilité), timeline Kanban interactive, détection des projets à risque | Spring Boot · Spring Data JPA · MySQL · Thymeleaf | [GitHub] |
 | 06 | **EduAdmin (OnLearn)** | Gestion des présences académiques (MVC PHP, 3 rôles), pointage par reconnaissance faciale (DeepFace), exports Excel/PDF, emails automatiques | PHP natif · MySQL/PDO · DeepFace · PHPMailer | [GitHub](https://github.com/NourMhadhbi/EduAdmin.git) |
-| 07 | **Gestion de factures** | Suivi automatique de l'état des factures selon les règlements, génération PDF de factures et rapports financiers | Python · Flask · MySQL · FPDF · Docker | [GitHub](https://github.com/nour-mhadhbi/invoice-manager-flask) |
-| 08 | **Réservation municipale** | Plateforme de gestion des demandes de réservation pour une municipalité | Spring Boot · Bootstrap · HTML | [GitHub](https://github.com/nour-mhadhbi/municipal-reservation) |
-| 09 | **App mobile cosmétique** | Application mobile multiplateforme avec authentification et gestion des données via Firebase | Flutter · Dart · Firebase | [GitHub](https://github.com/nour-mhadhbi/cosmetics-mobile-app) |
+| 07 | **Gestion de factures** | Suivi automatique de l'état des factures selon les règlements, génération PDF de factures et rapports financiers | Python · Flask · MySQL · FPDF · Docker | [GitHub] |
+| 08 | **Réservation municipale** | Plateforme de gestion des demandes de réservation pour une municipalité | Spring Boot · Bootstrap · HTML | [GitHub]|
+| 09 | **App mobile cosmétique** | Application mobile multiplateforme avec authentification et gestion des données via Firebase | Flutter · Dart · Firebase |
 
 ### 🛠️ Compétences techniques
 
