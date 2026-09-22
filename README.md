@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9637A,100:D9A441&height=180&section=header&text=Nour%20Mhadhbi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Engineering&descAlignY=58&descSize=18" width="100%"/>
+<div align="center">
+  <img src="./nour-mhadhbi-pro.jpg" width="250" alt="Nour Mhadhbi">
+</div>
 
 ### 🎓 Étudiante ingénieure en IA & Data Engineering · Engineering student in AI & Data Engineering
 📍 Sfax, Tunisie/Tunisia &nbsp;•&nbsp; 🟢 Ouverte aux stages · Open to internships
